@@ -1,1 +1,1 @@
-# AIML_Projects_Assignments_2024
+# FMML_Projects_Assignments_2024
